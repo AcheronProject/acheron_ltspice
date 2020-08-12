@@ -1,0 +1,17 @@
+*$
+******** Power JFET Electrical Model Parameters *********
+** Product: MMBFJ270
+** P-Channel Switch
+**-------------------------------------------------------
+.MODEL MMBFJ270 PJF
++ VTO=-4.50           BETA=8.9830e-4     LAMBDA=1.4511e-2
++ IS=2.1495e-11       ISR=2.1495e-11     ALPHA=1.00e-6
++ VK=1                RD=1               RS=1
++ CGD=6.5687e-12      CGS=5.9610e-12     M=0.3041
++ PB=1.2              KF=5.50e-16        AF=1.15
++ BETATCE=-0.42       VTOTC=-2.88e-3
+**-------------------------------------------------------
+** Creation: Oct.-11-2017   Rev: 1.0
+** ON Semiconductor
+*$
+
