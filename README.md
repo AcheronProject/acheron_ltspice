@@ -1,0 +1,1 @@
+- SN74LV4051A (8:1 analog multiplexer): SPICE model `SN74LV4051A.LIB` found at [TI's website](https://www.ti.com/product/SN74LV4051A) _(last accessed august 17, 2023)_ . The symbol was made by the contributors.
